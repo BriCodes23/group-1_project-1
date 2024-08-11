@@ -46,10 +46,9 @@ Conclusion: Arthritis and Asthma are most commonly associated with Cigna, Cancer
 ***Admission Types by Generation:***
 Conclusion: Generation X has the highest rates of Elective and Urgent admission types, while Seniors exhibit the highest rates of Emergency admissions.
 ***Billing Amounts for One-Day Hospital Stays:***
-Conclusion: Hypertension incurs the highest average billing cost for a one-day hospital stay, with significant variance in billing amounts as depicted by a bell curve. One-day hospital stay for managing hypertension had the highest billing cost in this data-set.
-The higher probability density peak and wider spread in standard deviation plot suggested more variability in terms of individual billing amounts. Also, indicative of potential outliers, (high/low billing amounts) contributing to the variability
+Conclusion: In analysis of one-day hospital stay for the 6 medical conditions and the billing amount: Hypertension indicated the highest billing cost for the management. The average billing amount and the distribution of data in the standard deviation indicated Hypertension cost to be higher than the rest of the medical conditions as visualized in the bar charts. The data was plotted under a bell curve to indicate the average data distribution to represent the probability of the medical condition falling within the interval and indicating the huge variance in billing amounts. 
 ***Gender-Based Prevalence of Medical Conditions:***
-Conclusion: The prevalence of medical conditions amongst the females was slightly more for arthritis & obesity. Males were slightly more prone for asthma, cancer & hypertension. Both Males & females were equally prone for diabetes.
+Conclusion: The prevalence of medical conditions amongst the females was slightly more for arthritis & obesity. Males were slightly more prone for asthma, cancer & hypertension. Both Males & females were equally prone for diabetes. The hypertension distribution was at 50% each in the genders, as visualized in the pie charts.
 ***Trends in Admissions Over Time:***
 Conclusion: There was a steady increase in admissions into 2020, followed by a decline to regular admission numbers later. Additionally, older age is correlated with a higher prevalence of health conditions.  
 
