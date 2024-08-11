@@ -1,7 +1,7 @@
 # group-1_project-1
 **Project Proposal: Comprehensive Analysis of Health Trends**
 
-**1. Introduction**
+**1. Introduction**  
 Understanding health trends is essential for identifying emerging health issues, shaping public health policies, and enhancing healthcare services. This project aims to analyze key health trends by examining prevalent medical conditions, lifestyle factors, and demographic influences. The objective is to uncover patterns and correlations that can provide actionable insights for stakeholders.
 Our team, consisting of Brianna, Derek, Kavita, and Laquita, has conducted an in-depth analysis using the healthcare dataset from the "Unlocking Healthcare Trends: Data Analysis" project authored by Muhammad Furqan. The dataset, sourced from Kaggle, contains 10,000 synthetic patient records, which include a wide range of attributes such as patient demographics, medical conditions, and admission details. The data is entirely synthetic and is intended for educational and non-commercial use.
 The analysis was conducted using Python, along with libraries such as Pandas and Matplotlib, to perform data cleaning, analysis, and visualizations. These tools enabled us to explore the relationships among various variables in the dataset and draw meaningful conclusions.
