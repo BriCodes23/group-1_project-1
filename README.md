@@ -46,9 +46,10 @@ Conclusion: Arthritis and Asthma are most commonly associated with Cigna, Cancer
 ***Admission Types by Generation:***
 Conclusion: Generation X has the highest rates of Elective and Urgent admission types, while Seniors exhibit the highest rates of Emergency admissions.
 ***Billing Amounts for One-Day Hospital Stays:***
-Conclusion: Hypertension incurs the highest average billing cost for a one-day hospital stay, with significant variance in billing amounts as depicted by a bell curve.
+Conclusion: Hypertension incurs the highest average billing cost for a one-day hospital stay, with significant variance in billing amounts as depicted by a bell curve. One-day hospital stay for managing hypertension had the highest billing cost in this data-set.
+The higher probability density peak and wider spread in standard deviation plot suggested more variability in terms of individual billing amounts. Also, indicative of potential outliers, (high/low billing amounts) contributing to the variability
 ***Gender-Based Prevalence of Medical Conditions:***
-Conclusion: Females show a higher prevalence of Arthritis, Diabetes, and Hypertension, with Obesity reaching 100%. Males are more prone to Asthma, Cancer, Diabetes, Arthritis, and Hypertension. Hypertension is equally distributed among both genders.
+Conclusion: The prevalence of medical conditions amongst the females was slightly more for arthritis & obesity. Males were slightly more prone for asthma, cancer & hypertension. Both Males & females were equally prone for diabetes.
 ***Trends in Admissions Over Time:***
 Conclusion: There was a steady increase in admissions into 2020, followed by a decline to regular admission numbers later. Additionally, older age is correlated with a higher prevalence of health conditions.  
 
