@@ -53,3 +53,6 @@ Conclusion: The prevalence of medical conditions amongst the females was slightl
 Conclusion: There was a steady increase in admissions into 2020, followed by a decline to regular admission numbers later. Additionally, older age is correlated with a higher prevalence of health conditions.  
 
 ***This cohesive analysis aims to provide a comprehensive understanding of the health trends reflected in the dataset, offering valuable insights for healthcare providers, policymakers, and other stakeholders. The findings and recommendations derived from this study have the potential to guide targeted interventions and improve overall healthcare outcomes.***
+
+**References**  
+"Unlocking Healthcare Trends: Data Analysis" project authored by Muhammad Furqan [Kaggle](https://www.kaggle.com/code/muhammadfurqan0/unlocking-healthcare-trends-data-analysis/input)
