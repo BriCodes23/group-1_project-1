@@ -1,4 +1,4 @@
-# group-1_project-1
+# group-1_project-1: Brianna Bethea, Kavita Gopal, Laquita Palmer, Derek Hill
 **Project Proposal: Comprehensive Analysis of Health Trends**
 
 **1. Introduction**  
